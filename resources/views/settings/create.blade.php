@@ -6,6 +6,6 @@
     </x-slot>
 
     <div class="py-2 px-12">
-         <livewire:CreateSchoolYear/>
+          @livewire('create-school-year')
     </div>
 </x-app-layout>
